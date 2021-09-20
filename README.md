@@ -383,6 +383,7 @@ CSS 3
                     scroll
                     auto
                     hidden
+                    
     CSS Operators
     -------------------------------------
         s1		applies to elements that have s1 as tag name
@@ -440,6 +441,26 @@ CSS 3
         p:nth-of-type(2)	
                         Selects every <p> element that is the second <p> element of its parent
                         
+HTML & CSS Assignment
+---------------------------------------------------------------------------
+
+    Digital resume:
+        Banner Section
+                Photo
+                Name
+                Contact details
+        Skill Set
+        Technical Qualifications
+        Academic Qualification
+        Experience And Recent Projects
+        Achivments And Publications
+        Personal Details
+
+JavaScript (ES6)
+---------------------------------------------------------------------------
+
+
+
 HTML 5 API
 ---------------------------------------------------------------------------
         GeoLocation
