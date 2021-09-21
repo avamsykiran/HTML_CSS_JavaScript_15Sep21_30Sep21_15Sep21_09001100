@@ -459,9 +459,43 @@ HTML & CSS Assignment
 JavaScript (ES6)
 ---------------------------------------------------------------------------
 
+    Javascript Basics
 
+            is a scripting language that can execute its scripts
+            both on a browser and in a stand alone mode too.
 
-HTML 5 API
+            we need a javascript runtime to execute the script
+            without a browser. And NodeJS is one such runtime.
+
+            1. javascript inherits it syntx fgrom c and cpp,hence case sensitive
+            2. is a dynamically typed language
+                integer,floats,strings,null,array,function,undefined
+
+        Datatypes
+        Variables and scopes (let,var), operators
+        Control Structures
+        Program Flows
+        String, Math, Date
+        
+    Javascript Objects
+    Javascript Functions
+        Arrow Functions
+        Memeber Functions and this keyword
+        call and apply
+        call backs and closures
+    Javascript Arrays
+    ES6 Enhancements
+        Modules
+        Template Literals
+        Arrow Functions
+        Destructuring
+        Spread and Rest operators
+    Javascript Asynchronous Programming
+        async, await and Promise
+    Javascript DOM
+    Javascript BOM
+
+HTML 5 Jvascript API
 ---------------------------------------------------------------------------
         GeoLocation
         Canvas
