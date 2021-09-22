@@ -477,22 +477,27 @@ JavaScript (ES6)
         Program Flows
         String, Math, Date
         
-    Javascript Objects
+    Javascript OOPs
     Javascript Functions
         Arrow Functions
         Memeber Functions and this keyword
         call and apply
         call backs and closures
+
     Javascript Arrays
+
     ES6 Enhancements
         Modules
         Template Literals
         Arrow Functions
         Destructuring
         Spread and Rest operators
+    
     Javascript Asynchronous Programming
         async, await and Promise
+    
     Javascript DOM
+    
     Javascript BOM
 
 HTML 5 Jvascript API
