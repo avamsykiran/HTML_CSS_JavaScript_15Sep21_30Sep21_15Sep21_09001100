@@ -494,8 +494,21 @@ JavaScript (ES6)
         Spread and Rest operators
     
     Javascript Asynchronous Programming
+        setInterval
+        clearInterval
+        setTimeout
+        clearTimeout
+
         async, await and Promise
-    
+
+            define a class that takes a 'count' as a field in its constructor,
+            it has to offer a function generateRandomNumbers which returns a promise.
+            the generateRandomNumbers function shall generate 'count' number of random
+            number using Math.random. the random number must be of the range 0 to 100.
+            These numbers must be printed asynchronously and the promise shall emit the
+            sum of the random number after resolving and shall reject with an error if the
+            count is negative...
+
     Javascript DOM
     
     Javascript BOM
