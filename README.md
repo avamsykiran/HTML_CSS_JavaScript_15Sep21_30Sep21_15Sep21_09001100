@@ -509,9 +509,49 @@ JavaScript (ES6)
             sum of the random number after resolving and shall reject with an error if the
             count is negative...
 
-    Javascript DOM
-    
-    Javascript BOM
+    Javascript BOM & DOM
+
+        Browser Object Model
+            window
+                navigatior
+                    appName
+                    appCodeName
+                history
+                    back()
+                    forward()
+                location
+                    href
+                    hostname
+                    protocol
+                    assign(yrl)
+                document
+
+                alert()
+                prompt()
+                confirm()
+                setInterval()
+                clearInterval
+                setTimeout()
+                clearTimeout()
+                open()
+                close()
+
+        Document Object Model
+            document
+
+                elements
+                forms
+
+                createElement()
+                removeElement()
+                replace(oldEle,newEle)
+                append()
+                prepand()
+                getElementById(id)
+                getElementsByName(name)
+                querySelector("css-selector")
+
+        
 
 HTML 5 Jvascript API
 ---------------------------------------------------------------------------
