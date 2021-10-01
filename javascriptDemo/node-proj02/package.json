@@ -1,13 +1,12 @@
 {
-  "name": "node-proj01",
+  "name": "node-proj02",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node main.js",
-    "server": "light-server -s . -p 9999"
+    "start": "light-server -s . -p 8765"
   },
-  "type": "module",
+  "type":"module",
   "keywords": [],
   "author": "",
   "license": "ISC",
