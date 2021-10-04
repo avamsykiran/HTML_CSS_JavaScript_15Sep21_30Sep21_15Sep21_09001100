@@ -557,6 +557,8 @@ HTML 5 Jvascript API
 ---------------------------------------------------------------------------
         GeoLocation
         Canvas
-        SVG
         Drag and Drop
-        Web Stoirage
+        Web Storage
+            localStorage
+            sessionStorage
+    
